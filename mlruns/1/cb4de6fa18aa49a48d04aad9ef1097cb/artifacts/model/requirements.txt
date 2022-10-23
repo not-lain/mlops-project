@@ -1,0 +1,9 @@
+mlflow
+dill==0.3.5.1
+googleapis-common-protos==1.56.4
+keras==2.9.0
+pandas==1.4.3
+pillow==9.1.1
+pydotplus==2.0.2
+scipy==1.9.1
+tensorflow==2.9.1

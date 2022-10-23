@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/hhich/OneDrive/Desktop/github/mlops/mlruns/1
+creation_time: 1666567996160
+experiment_id: '1'
+last_update_time: 1666567996160
+lifecycle_stage: active
+name: mnist
